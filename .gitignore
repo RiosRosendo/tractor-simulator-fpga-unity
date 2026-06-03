@@ -1,0 +1,47 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]serSettings/
+Assets/AssetStoreTools*
+
+# VS Code & IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.csproj
+*.sln
+
+# FPGA
+*.qsys
+*.sopc
+*.pin
+*.pof
+*.sof
+*.rbf
+*_bb.v
+*_inst.vhd
+
+# Quartus
+db/
+incremental_db/
+simulation/
+output_files/
+*.jdi
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Cache
+.gradle/
