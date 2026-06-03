@@ -158,7 +158,7 @@ tractor-simulator-fpga-unity/
 |------|-----------|------|
 | **Roberto Raymundo Gómez Vargas** | A01285451 | FPGA Design & Control Logic |
 | **Jesus Alberto García Gonzalez** | A01369587 | Unity Development & Integration |
-| **Rosendo De Los Rios Moreno** | A01198515 | System Architecture & Testing |
+| **Rosendo De Los Rios Moreno** | A01198515 | Tractor Simulator Development & FPGA Testing |
 | **Hugo Daniel Castillo Ovando** | A00836025 | Hardware Setup & Validation |
 
 **Team**: Tec de Monterrey - School of Engineering
